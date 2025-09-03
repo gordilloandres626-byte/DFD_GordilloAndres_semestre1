@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+67
+'Buenas tardes en el programa podra calcular el area de un circulo'
+4
+1
+40
+'Por favor digite el valor del radio=r '
+5
+1
+1
+a
+6
+1
+1
+c
+10
+(3.14*a^2)
+4
+1
+39
+'El valor del area del circulo es ',  c
+1
